@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://cgray009:Iwillfollow7@demo-cluster-40t16.mongodb.net/lock?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://cgray009:Iwillfollow7@demo-cluster-40t16.mongodb.net/all?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken"
 }
