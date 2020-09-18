@@ -33,7 +33,7 @@ const PostItem = ({
             type='button'
             className='btn btn-light'
           >
-            <i className='fas fa-thumbs-up' />{' '}
+            <i class="material-icons">thumb_up</i>{' '}
             <span>{likes.length > 0 && <span>{likes.length}</span>}</span>
           </button>
           <button
